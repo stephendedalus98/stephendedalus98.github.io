@@ -1,0 +1,16 @@
+body{
+    background-image: url("../trauma.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pop{
+    font-style: italic;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin-left: 0;
+   
+    background-size: 100%;
+    font-size: 30pt;
+}
